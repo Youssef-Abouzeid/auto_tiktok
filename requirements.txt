@@ -1,0 +1,7 @@
+praw
+gtts
+moviepy
+opencv-python
+requests
+selenium
+ffmpeg-python
